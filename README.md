@@ -28,7 +28,7 @@ The project mimics realistic business operations such as order management, inven
 ### Tech Stack
 
 * **Database**: MySQL
-* **Tools Used**: MySQL Workbench, XAMPP, phpMyAdmin (optional)
+* **Tools Used**: MySQL Workbench
 * **Project Scope**: SQL-only implementation (no frontend/backend scripting)
 
 ---
